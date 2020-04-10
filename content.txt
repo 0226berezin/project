@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 content
 edit content
+=======
+content
+>>>>>>> cherry-branch
